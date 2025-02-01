@@ -26,7 +26,7 @@ function App() {
   {
     id: 2,
     description: "Vamos, atrévete a decir que sí.",
-    img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
+    img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"   
   },
   {
     id: 3,
